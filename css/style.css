@@ -42,6 +42,11 @@ body {
     width: 100%;
     height: 100%;
   }
+.bg-text {
+    background-image: url("/imagenes/coffe.jpg");
+    background-position: center;
+    background-size: cover;
+}
 li {
     list-style: none;
     margin: 1rem;
